@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+node_modules
+dist
+data
+*.sqlite*
+.DS_Store
+.git
+.github
+docs
+test
+strategies
+!strategies/ARGON_INTENDED.json
+beekeeper
+dashboard
+!dashboard/public/bees
